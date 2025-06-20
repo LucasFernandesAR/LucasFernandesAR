@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Fernandes Alves Rodrigues!
 
-🎓 Estudante de Ciência da Computação pela UNA e Análise e Desenvolvimento de Sistemas pela Descomplica.  
+🎓 Estudante de Engenharia de Software.  
 💡 Apaixonado por tecnologia, programação e resolução de problemas. Busco constantemente evoluir como desenvolvedor full stack.  
 🚀 Em formação sólida, com foco em **Java**, **C++**, **Python**, **JavaScript**, **HTML** e **CSS**.
 

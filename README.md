@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Fernandes Alves Rodrigues!
+# 👋 Olá, eu sou o Lucas Fernandes!
 
 🎓 Estudante de Engenharia de Software.  
 💡 Apaixonado por tecnologia, programação e resolução de problemas. Busco constantemente evoluir como desenvolvedor full stack.  
